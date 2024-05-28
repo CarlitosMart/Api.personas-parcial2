@@ -1,0 +1,87 @@
+C:\Repositorio\Consola .net\api.personas\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Repositorio\Consola .net\api.personas\Repository\bin\Debug\net6.0\Repository.dll
+C:\Repositorio\Consola .net\api.personas\Repository\bin\Debug\net6.0\ref\Repository.dll
+C:\Repositorio\Consola .net\api.personas\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Repositorio\Consola .net\api.personas\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Repositorio\Consola .net\api.personas\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Consola .net\api.personas\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Repositorio\Consola .net\api.personas\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Repositorio\Consola .net\api.personas\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Repositorio\Consola .net\api.personas\Repository\obj\Debug\net6.0\Repository.dll
+C:\Repositorio\Consola .net\api.personas\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\Repositorio\Consola .net\api.personas\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\carlo\OneDrive\Desktop\Api Personas profe\api.persona-optativo-v\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Desktop\Api Personas profe\api.persona-optativo-v\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Desktop\Api Personas profe\api.persona-optativo-v\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Desktop\Api Personas profe\api.persona-optativo-v\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Desktop\Api Personas profe\api.persona-optativo-v\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Desktop\Api Personas profe\api.persona-optativo-v\Repository\obj\Debug\net6.0\Repository.sourcelink.json
+C:\Users\carlo\OneDrive\Desktop\Api Personas profe\api.persona-optativo-v\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\carlo\OneDrive\Desktop\Api Personas profe\api.persona-optativo-v\Repository\obj\Debug\net6.0\Repository.pdb
+D:\GoogleDrive_Streaming\Mi unidad\CarlitosMart\Documentos\Facu\2024\Semestre 1\OptativoV\Tareas\TP1\api.persona-optativo-v\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+D:\GoogleDrive_Streaming\Mi unidad\CarlitosMart\Documentos\Facu\2024\Semestre 1\OptativoV\Tareas\TP1\api.persona-optativo-v\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\GoogleDrive_Streaming\Mi unidad\CarlitosMart\Documentos\Facu\2024\Semestre 1\OptativoV\Tareas\TP1\api.persona-optativo-v\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+D:\GoogleDrive_Streaming\Mi unidad\CarlitosMart\Documentos\Facu\2024\Semestre 1\OptativoV\Tareas\TP1\api.persona-optativo-v\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+D:\GoogleDrive_Streaming\Mi unidad\CarlitosMart\Documentos\Facu\2024\Semestre 1\OptativoV\Tareas\TP1\api.persona-optativo-v\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+D:\GoogleDrive_Streaming\Mi unidad\CarlitosMart\Documentos\Facu\2024\Semestre 1\OptativoV\Tareas\TP1\api.persona-optativo-v\Repository\obj\Debug\net6.0\Repository.sourcelink.json
+D:\GoogleDrive_Streaming\Mi unidad\CarlitosMart\Documentos\Facu\2024\Semestre 1\OptativoV\Tareas\TP1\api.persona-optativo-v\Repository\obj\Debug\net6.0\Repository.dll
+D:\GoogleDrive_Streaming\Mi unidad\CarlitosMart\Documentos\Facu\2024\Semestre 1\OptativoV\Tareas\TP1\api.persona-optativo-v\Repository\obj\Debug\net6.0\refint\Repository.dll
+D:\GoogleDrive_Streaming\Mi unidad\CarlitosMart\Documentos\Facu\2024\Semestre 1\OptativoV\Tareas\TP1\api.persona-optativo-v\Repository\obj\Debug\net6.0\Repository.pdb
+D:\GoogleDrive_Streaming\Mi unidad\CarlitosMart\Documentos\Facu\2024\Semestre 1\OptativoV\Tareas\TP1\api.persona-optativo-v\Repository\bin\Debug\net6.0\Repository.deps.json
+D:\GoogleDrive_Streaming\Mi unidad\CarlitosMart\Documentos\Facu\2024\Semestre 1\OptativoV\Tareas\TP1\api.persona-optativo-v\Repository\bin\Debug\net6.0\Repository.dll
+D:\GoogleDrive_Streaming\Mi unidad\CarlitosMart\Documentos\Facu\2024\Semestre 1\OptativoV\Tareas\TP1\api.persona-optativo-v\Repository\bin\Debug\net6.0\Repository.pdb
+D:\GoogleDrive_Streaming\Mi unidad\CarlitosMart\Documentos\Facu\2024\Semestre 1\OptativoV\Tareas\TP1\api.persona-optativo-v\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\Repository\obj\Debug\net6.0\Repository.sourcelink.json
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\Users\carlo\OneDrive\Desktop\Examen parcial I\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Desktop\Examen parcial I\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Desktop\Examen parcial I\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Desktop\Examen parcial I\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Desktop\Examen parcial I\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Desktop\Examen parcial I\Repository\obj\Debug\net6.0\Repository.sourcelink.json
+C:\Users\carlo\OneDrive\Desktop\Examen parcial I\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\carlo\OneDrive\Desktop\Examen parcial I\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\carlo\OneDrive\Desktop\Examen parcial I\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\carlo\OneDrive\Desktop\Examen parcial I\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\carlo\OneDrive\Desktop\Examen parcial I\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\carlo\OneDrive\Desktop\Examen parcial I\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\carlo\OneDrive\Desktop\Examen parcial I\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Codigo Fuente\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Codigo Fuente\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Codigo Fuente\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Codigo Fuente\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Codigo Fuente\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Codigo Fuente\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Codigo Fuente\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Codigo Fuente\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Codigo Fuente\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Codigo Fuente\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Codigo Fuente\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Codigo Fuente\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Codigo Fuente\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Codigo Fuente\Repository\obj\Debug\net6.0\ref\Repository.dll

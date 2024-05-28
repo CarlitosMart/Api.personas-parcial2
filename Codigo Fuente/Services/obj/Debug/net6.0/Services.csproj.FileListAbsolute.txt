@@ -1,0 +1,109 @@
+C:\Repositorio\Consola .net\api.personas\Services\bin\Debug\net6.0\Services.deps.json
+C:\Repositorio\Consola .net\api.personas\Services\bin\Debug\net6.0\Services.dll
+C:\Repositorio\Consola .net\api.personas\Services\bin\Debug\net6.0\ref\Services.dll
+C:\Repositorio\Consola .net\api.personas\Services\bin\Debug\net6.0\Services.pdb
+C:\Repositorio\Consola .net\api.personas\Services\bin\Debug\net6.0\Repository.dll
+C:\Repositorio\Consola .net\api.personas\Services\bin\Debug\net6.0\Repository.pdb
+C:\Repositorio\Consola .net\api.personas\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Repositorio\Consola .net\api.personas\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Consola .net\api.personas\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Repositorio\Consola .net\api.personas\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Repositorio\Consola .net\api.personas\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Repositorio\Consola .net\api.personas\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+C:\Repositorio\Consola .net\api.personas\Services\obj\Debug\net6.0\Services.dll
+C:\Repositorio\Consola .net\api.personas\Services\obj\Debug\net6.0\ref\Services.dll
+C:\Repositorio\Consola .net\api.personas\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\carlo\OneDrive\Desktop\Api Personas profe\api.persona-optativo-v\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\carlo\OneDrive\Desktop\Api Personas profe\api.persona-optativo-v\Services\bin\Debug\net6.0\Services.dll
+C:\Users\carlo\OneDrive\Desktop\Api Personas profe\api.persona-optativo-v\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\carlo\OneDrive\Desktop\Api Personas profe\api.persona-optativo-v\Services\bin\Debug\net6.0\Repository.dll
+C:\Users\carlo\OneDrive\Desktop\Api Personas profe\api.persona-optativo-v\Services\bin\Debug\net6.0\Repository.pdb
+C:\Users\carlo\OneDrive\Desktop\Api Personas profe\api.persona-optativo-v\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Desktop\Api Personas profe\api.persona-optativo-v\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Desktop\Api Personas profe\api.persona-optativo-v\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Desktop\Api Personas profe\api.persona-optativo-v\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Desktop\Api Personas profe\api.persona-optativo-v\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Desktop\Api Personas profe\api.persona-optativo-v\Services\obj\Debug\net6.0\Services.sourcelink.json
+C:\Users\carlo\OneDrive\Desktop\Api Personas profe\api.persona-optativo-v\Services\obj\Debug\net6.0\Services.csproj.Up2Date
+C:\Users\carlo\OneDrive\Desktop\Api Personas profe\api.persona-optativo-v\Services\obj\Debug\net6.0\Services.dll
+C:\Users\carlo\OneDrive\Desktop\Api Personas profe\api.persona-optativo-v\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Users\carlo\OneDrive\Desktop\Api Personas profe\api.persona-optativo-v\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\carlo\OneDrive\Desktop\Api Personas profe\api.persona-optativo-v\Services\obj\Debug\net6.0\ref\Services.dll
+D:\GoogleDrive_Streaming\Mi unidad\CarlitosMart\Documentos\Facu\2024\Semestre 1\OptativoV\Tareas\TP1\api.persona-optativo-v\Services\bin\Debug\net6.0\Services.deps.json
+D:\GoogleDrive_Streaming\Mi unidad\CarlitosMart\Documentos\Facu\2024\Semestre 1\OptativoV\Tareas\TP1\api.persona-optativo-v\Services\bin\Debug\net6.0\Services.dll
+D:\GoogleDrive_Streaming\Mi unidad\CarlitosMart\Documentos\Facu\2024\Semestre 1\OptativoV\Tareas\TP1\api.persona-optativo-v\Services\bin\Debug\net6.0\Services.pdb
+D:\GoogleDrive_Streaming\Mi unidad\CarlitosMart\Documentos\Facu\2024\Semestre 1\OptativoV\Tareas\TP1\api.persona-optativo-v\Services\bin\Debug\net6.0\Repository.dll
+D:\GoogleDrive_Streaming\Mi unidad\CarlitosMart\Documentos\Facu\2024\Semestre 1\OptativoV\Tareas\TP1\api.persona-optativo-v\Services\bin\Debug\net6.0\Repository.pdb
+D:\GoogleDrive_Streaming\Mi unidad\CarlitosMart\Documentos\Facu\2024\Semestre 1\OptativoV\Tareas\TP1\api.persona-optativo-v\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+D:\GoogleDrive_Streaming\Mi unidad\CarlitosMart\Documentos\Facu\2024\Semestre 1\OptativoV\Tareas\TP1\api.persona-optativo-v\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\GoogleDrive_Streaming\Mi unidad\CarlitosMart\Documentos\Facu\2024\Semestre 1\OptativoV\Tareas\TP1\api.persona-optativo-v\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+D:\GoogleDrive_Streaming\Mi unidad\CarlitosMart\Documentos\Facu\2024\Semestre 1\OptativoV\Tareas\TP1\api.persona-optativo-v\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+D:\GoogleDrive_Streaming\Mi unidad\CarlitosMart\Documentos\Facu\2024\Semestre 1\OptativoV\Tareas\TP1\api.persona-optativo-v\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+D:\GoogleDrive_Streaming\Mi unidad\CarlitosMart\Documentos\Facu\2024\Semestre 1\OptativoV\Tareas\TP1\api.persona-optativo-v\Services\obj\Debug\net6.0\Services.sourcelink.json
+D:\GoogleDrive_Streaming\Mi unidad\CarlitosMart\Documentos\Facu\2024\Semestre 1\OptativoV\Tareas\TP1\api.persona-optativo-v\Services\obj\Debug\net6.0\Services.csproj.Up2Date
+D:\GoogleDrive_Streaming\Mi unidad\CarlitosMart\Documentos\Facu\2024\Semestre 1\OptativoV\Tareas\TP1\api.persona-optativo-v\Services\obj\Debug\net6.0\Services.dll
+D:\GoogleDrive_Streaming\Mi unidad\CarlitosMart\Documentos\Facu\2024\Semestre 1\OptativoV\Tareas\TP1\api.persona-optativo-v\Services\obj\Debug\net6.0\refint\Services.dll
+D:\GoogleDrive_Streaming\Mi unidad\CarlitosMart\Documentos\Facu\2024\Semestre 1\OptativoV\Tareas\TP1\api.persona-optativo-v\Services\obj\Debug\net6.0\Services.pdb
+D:\GoogleDrive_Streaming\Mi unidad\CarlitosMart\Documentos\Facu\2024\Semestre 1\OptativoV\Tareas\TP1\api.persona-optativo-v\Services\obj\Debug\net6.0\ref\Services.dll
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\Services\bin\Debug\net6.0\Services.dll
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\Services\bin\Debug\net6.0\Repository.dll
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\Services\bin\Debug\net6.0\Repository.pdb
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\Services\obj\Debug\net6.0\Services.sourcelink.json
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\Services\obj\Debug\net6.0\Services.csproj.Up2Date
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\Services\obj\Debug\net6.0\Services.dll
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\Services\obj\Debug\net6.0\ref\Services.dll
+C:\Users\carlo\OneDrive\Desktop\Examen parcial I\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Desktop\Examen parcial I\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Desktop\Examen parcial I\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Desktop\Examen parcial I\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Desktop\Examen parcial I\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Desktop\Examen parcial I\Services\obj\Debug\net6.0\Services.sourcelink.json
+C:\Users\carlo\OneDrive\Desktop\Examen parcial I\Services\obj\Debug\net6.0\Services.dll
+C:\Users\carlo\OneDrive\Desktop\Examen parcial I\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Users\carlo\OneDrive\Desktop\Examen parcial I\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\carlo\OneDrive\Desktop\Examen parcial I\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\carlo\OneDrive\Desktop\Examen parcial I\Services\bin\Debug\net6.0\Services.dll
+C:\Users\carlo\OneDrive\Desktop\Examen parcial I\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\carlo\OneDrive\Desktop\Examen parcial I\Services\bin\Debug\net6.0\Repository.dll
+C:\Users\carlo\OneDrive\Desktop\Examen parcial I\Services\bin\Debug\net6.0\Repository.pdb
+C:\Users\carlo\OneDrive\Desktop\Examen parcial I\Services\obj\Debug\net6.0\Services.csproj.Up2Date
+C:\Users\carlo\OneDrive\Desktop\Examen parcial I\Services\obj\Debug\net6.0\ref\Services.dll
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Services\bin\Debug\net6.0\Services.dll
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Services\bin\Debug\net6.0\Repository.dll
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Services\bin\Debug\net6.0\Repository.pdb
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Services\obj\Debug\net6.0\Services.csproj.Up2Date
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Services\obj\Debug\net6.0\Services.dll
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Services\obj\Debug\net6.0\ref\Services.dll
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Codigo Fuente\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Codigo Fuente\Services\bin\Debug\net6.0\Services.dll
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Codigo Fuente\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Codigo Fuente\Services\bin\Debug\net6.0\Repository.dll
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Codigo Fuente\Services\bin\Debug\net6.0\Repository.pdb
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Codigo Fuente\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Codigo Fuente\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Codigo Fuente\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Codigo Fuente\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Codigo Fuente\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Codigo Fuente\Services\obj\Debug\net6.0\Services.csproj.Up2Date
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Codigo Fuente\Services\obj\Debug\net6.0\Services.dll
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Codigo Fuente\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Codigo Fuente\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\carlo\OneDrive\Desktop\Examen parcial 2\Codigo Fuente\Services\obj\Debug\net6.0\ref\Services.dll
